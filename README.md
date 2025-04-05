@@ -8,7 +8,7 @@
 <br>
 
 # Description
-A simple project to refresh on the basics of just HTML and CSS. And to remind me why modern frameworks & TailwindCSS are so convienient.
+A simple project to refresh on the basics of just HTML and CSS. And to remind me why modern frameworks & TailwindCSS are so convenient.
 <br>
 
 # Features
