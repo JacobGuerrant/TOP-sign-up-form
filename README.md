@@ -12,9 +12,9 @@ A simple project to refresh on the basics of just HTML and CSS. And to remind me
 <br>
 
 # Features
-*Basic input validation through form input requirements and Javascript querying
-*Optimized UI and UX
-*Responsive for both Desktop & Mobile devices.
+* Basic input validation through form input requirements and Javascript querying
+* Optimized UI and UX
+* Responsive for both Desktop & Mobile devices.
 <br>
 <img width="160" alt="Image" src="https://github.com/user-attachments/assets/f2acdfef-d416-4d43-bfc0-e2b2063f780e" />
 <br>
